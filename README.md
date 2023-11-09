@@ -1,6 +1,5 @@
 - Hi, I’m Benjamin Foreman
 - I’m interested in video games, and software programming
-- I’m currently learning C++
 - I can be reached at benny4man@gmail.com
 
 
